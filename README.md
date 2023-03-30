@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [springboot-simple-service](https://github.com/b2narae/springboot-simple-service)
 
-- 🌱 I’m currently learning **Reat Solidity SpringBoot, MSA**
+- 🌱 I’m currently learning **React, SpringBoot, JPA, Solidity , MSA**
 
 - 📝 I regularly write articles on [https://b2narae.tistory.com/](https://b2narae.tistory.com/)
 
