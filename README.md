@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taekhwan.kim</h1>
 <h3 align="center">A passionate server developer from Korea</h3>
 
-- 🔭 I’m currently working on [springboot-simple-service](https://github.com/b2narae/springboot-simple-service)
+- 🔭 I’m currently working on [groundstreet](https://github.com/b2narae/springboot-simple-service)
 
-- 🌱 I’m currently learning **React, SpringBoot, JPA, Solidity , MSA**
+- 🌱 I’m currently learning **SpringBoot, JPA, REDIS, MSA, React**
 
-- 📝 I regularly write articles on [https://b2narae.tistory.com/](https://b2narae.tistory.com/)
+- 📝 I'm writing down what I learn everyday on [https://b2narae.notion.site/Learning-dac99a4d13d8486d839e780269674a9e?pvs=4](https://b2narae.notion.site/Learning-dac99a4d13d8486d839e780269674a9e?pvs=4)
 
 - 📫 How to reach me **b2narae@gmail.com**
 
